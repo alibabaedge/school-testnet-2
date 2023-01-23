@@ -35,7 +35,7 @@ Lead validator team will create a governance proposal on `25.01.2023 15:00 UTC`,
 
 In order to find correct proposal you will need to run query command using your network client binary (`gaiad` in our case). Please issue following command `gaiad query gov proposals`, and find proposal with `title:` ”Vote for me friend”.
 
-**New to upgrades?** Read [this](https://docs.cosmos.network/master/modules/gov)
+**New to upgrades?** Read [this](https://docs.cosmos.network/v0.47/modules/gov)
 
 **Update Schedule:**
 
@@ -51,7 +51,7 @@ In order to find correct proposal you will need to run query command using your 
 
 **Bonus challenge**
 
-- Make a detailed thread on Twitter about incorrect props, what number you missed, what does it mean and make a PR to the appropriate directory.
+- Make a detailed thread on Twitter about incorrect props, what number you missed, what does it mean and make a PR to the appropriate directory. [Tweet directory](https://github.com/Distributed-Validators-Synctems/school-testnet-2/tree/master/tweet)
 
 `5 points =  5000 atom for everyone who provides a peer.`
 
