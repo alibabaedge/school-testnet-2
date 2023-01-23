@@ -53,7 +53,7 @@ In order to find correct proposal you will need to run query command using your 
 
 - Make a detailed thread on Twitter about incorrect props, what number you missed, what does it mean and make a PR to the appropriate directory. [Tweet directory](https://github.com/Distributed-Validators-Synctems/school-testnet-2/tree/master/tweet)
 
-`5 points =  5000 atom for everyone who provides a peer.`
+`5 points =  5000 atom for everyone who provides a PR url Twitter thread.`
 
 ---
 
