@@ -47,7 +47,7 @@ In order to find correct proposal you will need to run query command using your 
 
 - Review the parameter change proposal and cast your vote before voting period endtime.
 
-`25 Points = 25 000 atom for successful wallet submissions.`
+`25 Points = 25 000 atom for successful vote.`
 
 **Bonus challenge**
 
